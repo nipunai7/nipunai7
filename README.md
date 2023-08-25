@@ -7,3 +7,5 @@
 - 💬 I'm also experienced in Google Cloud Platform and Azure Portal
 - 📫 How to reach me: visit https://nipunamunasinghe.com
 - 😄 ...
+
+- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nipunai7&show_icons=true&locale=en&layout=compact" alt="nipunai7" /></p>
