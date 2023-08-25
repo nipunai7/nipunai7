@@ -1,4 +1,4 @@
-### ✍️ A Dev Quote
+### ✍️ Have a free quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 💫 About Me:
