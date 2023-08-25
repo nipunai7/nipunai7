@@ -1,3 +1,6 @@
+### ✍️ A Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 # 💫 About Me:
 Hi there 👋 I'm Nipuna<br>🔭 I’m a Management and Information Technology Undergraduate of University of Kelaniya<br>📄 I'm also certified in AZ-900 Azure Fundamentals and DP-900 Azure Data Fundamentals https://www.credly.com/users/nipuna-munasinghe/badges<br>🌱 Technologies - HTML, CSS, JavaScript, PHP, Bootstrap, MongoDB, java , C, C#, C++, MySQL, Android, SQLite, MS SQL, SpringBoot, Firebase<br>🤔 I’m looking to be a part of an organization as an Intern to improve my overall Software Engineering skills as well as contribute to the organization to the fullest of my capabilities<br>💬 I'm also experienced in Google Cloud Platform and Azure Portal<br>📫 How to reach me: visit https://nipunamunasinghe.com
 
@@ -14,9 +17,6 @@ Hi there 👋 I'm Nipuna<br>🔭 I’m a Management and Information Technology U
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nipunai7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
