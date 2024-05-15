@@ -2,7 +2,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 💫 About Me:
-Hi there 👋 I'm Nipuna<br>🔭 I’m a Software Engineer with a DevOps background <br>📄 I'm also certified in AZ-900 Azure Fundamentals and DP-900 Azure Data Fundamentals https://www.credly.com/users/nipuna-munasinghe/badges<br>🌱 Technologies - HTML, CSS, JavaScript, PHP, Bootstrap, MongoDB, java , C, C#, C++, MySQL, Android, SQLite, MS SQL, SpringBoot, Firebase<br>🤔 I’m looking to be a part of an organization as an Intern to improve my overall Software Engineering skills as well as contribute to the organization to the fullest of my capabilities<br>💬 I'm also experienced in Google Cloud Platform and Azure Portal<br>📫 How to reach me: visit https://nipunamunasinghe.tech
+Hi there 👋 I'm Nipuna<br>🔭 I’m a Software Engineer with a DevOps background <br>📄 I'm also certified in AZ-900 Azure Fundamentals and DP-900 Azure Data Fundamentals https://www.credly.com/users/nipuna-munasinghe/badges<br>🌱 Technologies - HTML, CSS, JavaScript, PHP, Bootstrap, MongoDB, java , C, C#, C++, MySQL, Android, SQLite, MS SQL, SpringBoot, Firebase<br>🤔 I’m always interested to be a part of an organization to improve my overall Software Engineering skills as well as contribute to the organization to the fullest of my capabilities<br>💬 I'm also experienced in Amazon Web Services, Google Cloud Platform and Azure Portal<br>📫 How to reach me: visit https://nipunamunasinghe.tech
 
 
 ## 🌐 Socials:
